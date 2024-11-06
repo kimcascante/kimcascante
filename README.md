@@ -2,7 +2,6 @@
 
 🌱 Exploring new technologies and open-source projects  
 🔭 Currently learning Web3 and blockchain basics  
-🚀 GitHub Projects: https://github.com/kimcascante
 
 ### Connect with me:
 - [GitHub](https://github.com/kimcascante?tab=overview&from=2022-12-01&to=2022-12-31)
